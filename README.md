@@ -2,16 +2,17 @@
 
 <p align="center">
   <b>Software Developer • Frontend & Fullstack</b><br/>
-  Construyendo aplicaciones modernas, escalables y bien estructuradas 🚀
 </p>
 
 <p align="center">
   <a href="https://react.dev/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" />
   </a>
+
   <a href="https://nestjs.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60" />
+    <img src="https://nestjs.com/img/logo-small.svg" width="60" />
   </a>
+
   <a href="https://nodejs.org/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" />
   </a>
@@ -69,16 +70,14 @@ Me gusta trabajar con tecnologías actuales, cuidando siempre la calidad del có
 ### 📱 Dizdeh Chén Me'xíil
 Aplicación móvil enfocada en la preservación de la lengua zapoteca  
 - ⚡ React Native + Expo  
-- 📚 Arquitectura offline-first  
 
 ### 🔧 Dizdeh Chén Me'xíil API
 Backend robusto con NestJS  
 - 🔐 Autenticación y seguridad  
-- 🗄️ MongoDB  
 - ⚙️ Arquitectura modular  
 
 ### 🌎 Q-Check (Canadá)
-Proyecto profesional enfocado en soluciones reales  
+Proyecto profesional enfocado en en ventas de productos mediante el uso de códigos QR en Canadá 
 - 💻 Desarrollo frontend  
 - 📈 Enfoque en calidad y escalabilidad  
 
@@ -112,12 +111,6 @@ Proyecto profesional enfocado en soluciones reales
 
 - 🇲🇽 Español: Nativo  
 - 🇺🇸 Inglés: Básico  
-
----
-
-## ✨ Filosofía
-
-> "El buen código no solo funciona, también se entiende, se mantiene y escala."
 
 ---
 
