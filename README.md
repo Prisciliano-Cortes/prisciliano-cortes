@@ -65,24 +65,6 @@ Me gusta trabajar con tecnologías actuales, cuidando siempre la calidad del có
 
 ---
 
-## 🏆 Proyectos Destacados
-
-### 📱 Dizdeh Chén Me'xíil
-Aplicación móvil enfocada en la preservación de la lengua zapoteca  
-- ⚡ React Native + Expo  
-
-### 🔧 Dizdeh Chén Me'xíil API
-Backend robusto con NestJS  
-- 🔐 Autenticación y seguridad  
-- ⚙️ Arquitectura modular  
-
-### 🌎 Q-Check (Canadá)
-Proyecto profesional enfocado en en ventas de productos mediante el uso de códigos QR en Canadá 
-- 💻 Desarrollo frontend  
-- 📈 Enfoque en calidad y escalabilidad  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
