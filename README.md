@@ -10,8 +10,8 @@
   </a>
 
   <a href="https://nestjs.com/" target="blank">
-    <img src="https://nestjs.com/img/logo-small.svg" width="60" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="60" />
+</a>
 
   <a href="https://nodejs.org/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" />
@@ -90,11 +90,8 @@ Proyecto profesional enfocado en en ventas de productos mediante el uso de códi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prisciliano-Cortes&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prisciliano-Cortes&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Followers-1-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-12-green?style=flat-square&logo=github" />
 </p>
 
 ---
